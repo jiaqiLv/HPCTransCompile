@@ -1,0 +1,9 @@
+args==0.1.0
+codebleu==0.7.0
+einops==0.8.1
+numpy==2.2.5
+pydantic==2.11.4
+pydra==0.25
+torch==2.6.0+cu126
+tqdm==4.67.1
+tvm==1.0.0
